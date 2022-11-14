@@ -1,7 +1,11 @@
 # Connect-4-with-GUI-
 implement the game Connect 4 with GUI in JAVA 
 
-<img src='https://github.com/L-andreea/Connect-4-with-GUI-/blob/main/img/schermataIniziale.png ' width='128'>
+
+<img src='https://github.com/L-andreea/Connect-4-with-GUI-/blob/main/img/schermataIniziale.png ' >
+the game start with this image, after select a new game and put the name of the palyer select start and the grid appare like the next image, 
+if you select the old game a file exlopr is open for select the game previous saved.
+<img src='https://github.com/L-andreea/Connect-4-with-GUI-/blob/main/img/giocatoreAttivo.png'>
 
 ## Folder Structure
 
