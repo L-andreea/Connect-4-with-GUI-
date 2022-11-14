@@ -1,7 +1,7 @@
 # Connect-4-with-GUI-
 implement the game Connect 4 with GUI in JAVA 
 
-<img src='Connect-f-withGUI-/img/schermataIniziale.png w' width='1280'>
+<img src='Connect-f-with-GUI-/img/schermataIniziale.png ' width='1280'>
 
 ## Folder Structure
 
