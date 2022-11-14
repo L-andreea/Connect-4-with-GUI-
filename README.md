@@ -7,8 +7,7 @@ The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources inside:
    -'forza4' the source need for the program 
-   -'test' the class for the test
-- `lib`: the folder to maintain dependencies
+
 - 'img' : the folder to the image used in the program
 
 
